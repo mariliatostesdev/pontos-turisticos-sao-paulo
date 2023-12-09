@@ -1,4 +1,4 @@
-# Exercício 5 - JavaScript Intermediário
+# Pontos Turísticos de São Paulo
 
 Este projeto apresenta um layout interativo que destaca os 4 principais pontos turísticos de São Paulo. Desenvolvido como parte do Exercício 5 de JavaScript Intermediário, o projeto utiliza HTML, CSS e JavaScript para criar uma experiência visual envolvente.
 
